@@ -1,0 +1,35 @@
+.akroniod-home-wrapper{
+border: 2px solid #cae;
+width:80%;
+height:80%;
+margin:auto;
+position:relative;
+}
+.akronoid-bricks-wrapper{
+width:100%;
+margin:auto;
+}
+.akronoid-element{
+width:10%;
+background-color:red;
+}
+.akronoid-pod{
+position:absolute;
+width: 200px;
+height:25px;
+background-color: blue;
+border-radius:15px;
+left:40%;
+top:92%;
+}
+.akronoid-ball{
+position:absolute;
+width:25px;
+height:25px;
+background-color:brown;
+border-radius:50%;
+top:50%;
+left:50%;
+bottom:50%;
+right:50%;
+}
